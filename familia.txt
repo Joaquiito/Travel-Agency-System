@@ -1,0 +1,28 @@
+Datos de la reserva
+CUIL: 20447888301
+Apellido y nombre: Rodrigo Salinas Francisco
+Destino: Zagreb
+Cantidad de acompañantes: 4
+Vinculo con los acompañantes: Familia
+Seña: 0.00
+Fecha:
+Dia: 5
+Mes: 2
+Año: 2022
+Tipo de servicio:All-inclusive
+Costo: 3060625.00
+
+Datos de la reserva
+CUIL: 2048150800
+Apellido y nombre: Rodrigo Salinas Bautista
+Destino: Bali
+Cantidad de acompañantes: 4
+Vinculo con los acompañantes: Familia
+Seña: 0.00
+Fecha:
+Dia: 6
+Mes: 12
+Año: 2021
+Tipo de servicio:Alojamiento
+Costo: 2444895.00
+

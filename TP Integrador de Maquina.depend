@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637674265 source:c:\users\joako\desktop\ing en informatica - facultad\materias - 1er año\2do cuatrimestre\programacion i\practicos\practico de maquina integrador\tp integrador de maquina\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"lista.h"
+	"destino.h"
+
+1637626889 c:\users\joako\desktop\ing en informatica - facultad\materias - 1er año\2do cuatrimestre\programacion i\practicos\practico de maquina integrador\tp integrador de maquina\lista.h
+	"reserva.h"
+
+1637626688 c:\users\joako\desktop\ing en informatica - facultad\materias - 1er año\2do cuatrimestre\programacion i\practicos\practico de maquina integrador\tp integrador de maquina\reserva.h
+	<string.h>
+	<malloc.h>
+
+1637626995 c:\users\joako\desktop\ing en informatica - facultad\materias - 1er año\2do cuatrimestre\programacion i\practicos\practico de maquina integrador\tp integrador de maquina\destino.h
+
